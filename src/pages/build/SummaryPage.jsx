@@ -2,7 +2,7 @@ import { useCanvas } from "../../context/CanvasContext";
 import { Link } from "react-router-dom";
 import { FaCheckCircle } from "react-icons/fa";
 import SummaryActions from "./SummaryActions";
-import useDocumentTitle from "../../components/hooks/UseDocumentTitle";
+import useDocumentTitle from "../../components/hooks/useDocumentTitle";
 import useScrollToTop from "../../components/hooks/useScrollToTop";
 
 const SummaryPage = () => {

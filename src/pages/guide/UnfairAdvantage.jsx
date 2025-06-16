@@ -4,7 +4,7 @@ import CanvasBlocksCard from "../../components/CanvasBlocksCard";
 import { FaExclamationTriangle, FaQuestionCircle } from "react-icons/fa";
 import BackButton from "../../components/BackButton";
 import NextButton from "../../components/NextButton";
-import useDocumentTitle from "../../components/hooks/UseDocumentTitle";
+import useDocumentTitle from "../../components/hooks/useDocumentTitle";
 import useScrollToTop from "../../components/hooks/useScrollToTop";
 
 const UnfairAdvantage = () => {

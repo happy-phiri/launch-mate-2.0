@@ -1,10 +1,8 @@
 import { Link } from "react-router-dom";
 import { IoRocketSharp } from "react-icons/io5";
-// import { BsTools } from "react-icons/bs";
-import { FaMapMarkedAlt } from "react-icons/fa";
 import { SlDirections } from "react-icons/sl";
 import launchingImg from "../assets/Launching-amico.svg";
-import useDocumentTitle from "../components/hooks/UseDocumentTitle";
+import useDocumentTitle from "../components/hooks/useDocumentTitle";
 import useScrollToTop from "../components/hooks/useScrollToTop";
 
 const Home = () => {
