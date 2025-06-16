@@ -1,7 +1,7 @@
 import { useCanvas } from "../../context/CanvasContext";
 import CanvasBlockLayout from "../../components/CanvasBlockLayout";
 import { FaLightbulb } from "react-icons/fa";
-import useDocumentTitle from "../../components/hooks/UseDocumentTitle";
+import useDocumentTitle from "../../components/hooks/useDocumentTitle";
 import useScrollToTop from "../../components/hooks/useScrollToTop";
 
 const GenerateSolution = () => {

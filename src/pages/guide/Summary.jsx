@@ -1,7 +1,7 @@
 import { leanCanvasBlocks } from "../../data";
 import BackButton from "../../components/BackButton";
 import NextButton from "../../components/NextButton";
-import useDocumentTitle from "../../components/hooks/UseDocumentTitle";
+import useDocumentTitle from "../../components/hooks/useDocumentTitle";
 import useScrollToTop from "../../components/hooks/useScrollToTop";
 
 const Summary = () => {

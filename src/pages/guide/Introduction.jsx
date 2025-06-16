@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { blocks } from "../../data";
 import CanvasBlocksCard from "../../components/CanvasBlocksCard";
 import leanCanvasImage from "../../assets/guide-images/leancanvas_page.jpg";
-import useDocumentTitle from "../../components/hooks/UseDocumentTitle";
+import useDocumentTitle from "../../components/hooks/useDocumentTitle";
 import useScrollToTop from "../../components/hooks/useScrollToTop";
 
 const Introduction = () => {
