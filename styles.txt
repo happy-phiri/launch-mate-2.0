@@ -1,0 +1,9 @@
+| UI Element              | Background                                | Text / Accent                                                    |
+| ----------------------- | ----------------------------------------- | ---------------------------------------------------------------- |
+| **Page Background**     | `#f9fafb` (gray-50)                       | `#1f2937` (gray-800)                                             |
+| **Cards/Blocks**        | `#ffffff` or `#f3f4f6`                    | `#023047` (prussian-blue headings), `#6b7280` (gray-500 subtext) |
+| **Navigation Bar**      | `#023047`                                 | `#ffffff` or `#ffb703`                                           |
+| **Buttons (Primary)**   | `#219ebc`                                 | `#ffffff`                                                        |
+| **Buttons (Secondary)** | `#ffb703`                                 | `#023047`                                                        |
+| **Hover States**        | Darker shades like `#fb8500` or `#1e3a8a` |                                                                  |
+| **Links**               | `#219ebc`, hover `#023047`                |                                                                  |

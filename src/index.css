@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-montserrat: "Montserrat", "sans-serif";
+    --font-quicksand: "Quicksand", "sans-serif";
+    --color-dark-bg: rgba(0,0,0,0.8);
+    --color-blue-green: rgb(33 158 188);
+    --color-prussian-blue: rgb(2 48 71);
+    --color-prussian-blue-transparent: rgba(2,48,71,0.3);
+    --color-selective-yellow: rgb(255 183 3);
+    --color-dark-gray: rgb(50 50 50)
+    /* --breakpoint-big: 30rem; */
+}
