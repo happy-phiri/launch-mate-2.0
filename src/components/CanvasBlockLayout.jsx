@@ -36,13 +36,15 @@ const CanvasBlockLayout = ({
   return (
     <div className="space-y-8">
       {/* Header Card */}
-      <div className="flex items-start gap-4 bg-sky-blue/10 p-5 rounded-lg shadow-sm border-l-4 border-blue-green">
+      <div className="flex flex-col md:flex-row items-start gap-4 bg-sky-blue/10 p-5 rounded-lg shadow-sm border-l-4 border-blue-green">
         <div className="w-12 h-12 bg-blue-green/20 rounded-full flex items-center justify-center text-2xl text-blue-green shrink-0">
           <Icon />
         </div>
         <div>
-          <h1 className="text-3xl font-bold text-prussian-blue">{title}</h1>
-          <p className="text-lg text-gray-700 font-quicksand mt-1">
+          <h1 className="text-2xl lg:text-3xl font-bold text-prussian-blue">
+            {title}
+          </h1>
+          <p className="text-base lg:text-lg text-gray-700 font-quicksand mt-1">
             {description}
           </p>
         </div>

@@ -30,7 +30,12 @@ const CanvasLayout = () => {
   return (
     <main className="min-h-screen bg-magnolia px-4 py-8">
       <div className="max-w-5xl mx-auto space-y-8">
-        <ProgressBar currentStep={progressStep} totalSteps={stepPaths.length} />
+        <div className="px-4 lg:px-0">
+          <ProgressBar
+            currentStep={progressStep}
+            totalSteps={stepPaths.length}
+          />
+        </div>
 
         {/* NAVIGATION */}
         <aside className="flex flex-row justify-center flex-wrap gap-2 font-montserrat mt-8">

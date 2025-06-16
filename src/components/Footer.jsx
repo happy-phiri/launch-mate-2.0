@@ -2,7 +2,7 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="shadow-sm py-6 text-center text-sm text-gray-600 space-y-3 font-quicksand">
+    <footer className="shadow-sm py-6 px-6 text-center text-sm text-gray-600 space-y-3 font-quicksand">
       <p>Lean Canvas | Start Planning Your Startup — the Right Way</p>
 
       <div className="flex justify-center gap-6 text-xl text-gray-600">

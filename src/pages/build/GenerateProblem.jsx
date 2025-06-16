@@ -10,7 +10,7 @@ const GenerateProblem = () => {
   useScrollToTop();
 
   return (
-    <div className="space-y-6 px-4">
+    <div className="space-y-6">
       {/* Company Name Input */}
       <div className="space-y-2 font-montserrat">
         <label htmlFor="companyName" className="block text-prussian-blue">
