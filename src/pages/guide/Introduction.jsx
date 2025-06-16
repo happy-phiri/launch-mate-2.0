@@ -14,7 +14,7 @@ const Introduction = () => {
       <img
         src={leanCanvasImage}
         alt="lean canvas template"
-        className="w-[90%] rounded-2xl shadow-lg"
+        className="lg:w-[90%] rounded-2xl shadow-lg"
       />
       {/* INTRO SECTION */}
       <div className="space-y-4 max-w-4xl mt-8">

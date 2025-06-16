@@ -18,7 +18,7 @@ const Solution = () => {
         <img
           src={solutionImage}
           alt="man faced with a question"
-          className="w-[60%] max-w-md mx-auto"
+          className="w-[80%] lg:w-[60%] max-w-md mx-auto"
         />
         <a
           href="https://storyset.com/business"

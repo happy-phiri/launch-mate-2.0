@@ -3,7 +3,7 @@ import { navItems } from "../data";
 
 const GuideNavigation = () => {
   return (
-    <aside className="flex flex-wrap justify-center lg:flex-col lg:gap-4 py-10 font-montserrat text-prussian-blue text-sm">
+    <aside className="flex flex-wrap justify-center max-md:px-2.5 lg:flex-col lg:gap-4 py-10 font-montserrat text-prussian-blue text-sm">
       {navItems.map(({ to, label, number }) => (
         <NavLink
           key={to}

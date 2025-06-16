@@ -22,7 +22,7 @@ const Problem = () => {
         <img
           src={problemImage}
           alt="man offering helping hand"
-          className="w-[60%] max-w-md mx-auto"
+          className="w-[80%] lg:w-[60%] max-w-md mx-auto"
         />
         <a
           href="https://storyset.com/people"

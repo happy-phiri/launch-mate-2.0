@@ -22,7 +22,7 @@ const KeyMetrics = () => {
         <img
           src={metricsImage}
           alt="two people analyzing data"
-          className="w-[60%] max-w-md mx-auto"
+          className="w-[80%] lg:w-[60%] max-w-md mx-auto"
         />
         <a
           href="https://storyset.com/work"

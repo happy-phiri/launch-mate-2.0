@@ -18,7 +18,7 @@ const UnfairAdvantage = () => {
         <img
           src={unfairAdvantageImage}
           alt="man climbing steps with advantages"
-          className="w-[60%] max-w-md mx-auto"
+          className="w-[80%] lg:w-[60%] max-w-md mx-auto"
         />
         <a
           href="https://storyset.com/people"
