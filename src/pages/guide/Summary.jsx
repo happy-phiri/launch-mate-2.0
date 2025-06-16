@@ -9,7 +9,7 @@ const Summary = () => {
   useScrollToTop();
 
   return (
-    <section>
+    <section className="font-montserrat px-6 space-y-8 pb-20">
       <h2 className="text-2xl font-semibold text-prussian-blue text-center">
         Your Lean Canvas Summary
       </h2>
