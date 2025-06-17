@@ -2,7 +2,7 @@
 
 LaunchMate is a web-based tool that helps entrepreneurs, startup founders, and product builders **understand and complete the Lean Canvas**—a one-page business model framework. This tool combines a **step-by-step educational guide** with an **interactive canvas builder** to make planning your startup faster and clearer.
 
-## Visit the website [here]
+## Visit the website https://launch-mate.netlify.app/
 
 ## ✨ Features
 
